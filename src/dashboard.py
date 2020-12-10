@@ -1,7 +1,7 @@
 from datetime import timedelta
 from pathlib import Path
 from time import sleep
-# Import packages
+# Import python packages
 import numpy as np
 import pandas as pd
 import plotly_express as px
